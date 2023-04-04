@@ -65,6 +65,8 @@ public class SlidingWindow {
      * the algorithm complexity will reduce to
 
      * O(N).
+     *
+     * In some problems, the size of the sliding window is not fixed. We have to expand or shrink the window based on the problem constraints.
      * */
     public static double[] findAveragesSlidingWindow(int k, int[] arr) {
         double[] result = new double[arr.length - k + 1]; //create a array to store the average of all sub array of size k
