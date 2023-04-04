@@ -24,3 +24,7 @@ The pattern sliding window technique is a very useful algorithmic approach that 
 - **Graph Algorithms:** The pattern sliding window technique can also be used in graph algorithms, such as finding the shortest path between two nodes in a graph with weights.
 
 Overall, the pattern sliding window technique is a powerful and flexible approach that can be applied to many different types of problems in data structures and algorithms. It's an essential tool in a programmer's toolkit.
+
+###  Note: 
+No need to remember the conditions or anything any Problem we are trying to solve first start with smaller example dry running your algorithm with example and next try to code this way it's easy to code a algorithm rather than trying to remember the code
+We should not remember code we just need to remember just the algorithm
